@@ -1,0 +1,8 @@
+# Custom
+styles.css
+
+# Sass / SCSS
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
